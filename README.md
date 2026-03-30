@@ -9,7 +9,7 @@ Gerçek ABD Uzay Kuvvetleri yörünge verisiyle beslenen, SGP4 propagasyonu + fi
 
 ---
 
-## 🚀 Hızlı Başlangıç (Jüriler İçin)
+## Hızlı Başlangıç
 
 ### Windows — Tek Tıkla
 
